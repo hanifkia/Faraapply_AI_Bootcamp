@@ -3,7 +3,7 @@
 
 Welcome!  
 This repository contains codes, notebooks, and documentation for the Machine Learning (ML) part of the AI Bootcamp. Each week’s materials are organized into folders and cover the progression of topics, from Python programming basics to advanced ML algorithms and projects.
-
+![alt text](./cover.jpeg)
 ---
 
 ## 📅 Weekly Content Overview
